@@ -5,21 +5,27 @@ I am a **Finance Graduate** from the University of Dhaka and a **CA Professional
 Currently, I am working as an **Intern** at the **Dhaka Stock Exchange PLC. (Research & Information Department)**, where I use data tools to analyse capital market trends and support regulatory activities. I try to bridge the gap between traditional financial analysis and modern data science.
 
 ---
-## 🚀 Featured Power BI Projects
-*Click the links below to view the full analysis and dashboards.*
+## 🚀 Featured *Power BI* Projects
 
-### 🟡 [Blinkit Sales Performance Dashboard](https://github.com/Shanto-442/Blinkit-Sales-Analysis-BI-Dashboard?tab=readme-ov-file)
+### 🟡 [1. Blinkit Sales Performance Executive Dashboard](https://github.com/Shanto-442/Blinkit-Sales-Analysis-BI-Dashboard?tab=readme-ov-file)
 **Revenue Analysis | Outlet KPI Monitoring | Business Intelligence**
 > A comprehensive dashboard analyzing **$1.20M in sales** across 8,500+ items.
 * **Tech:** Power BI, DAX, Power Query.
 * **Key Insight:** Identified Tier 3 outlets as the leading revenue driver ($472K).
-* **[View Project Repository ➡️](https://github.com/Shanto-442/Blinkit-Sales-Dashboard)**
+* **[Click to View Project Repository ➡️](https://github.com/Shanto-442/Blinkit-Sales-Analysis-BI-Dashboard?tab=readme-ov-file)**
 
 ---
 
-## 🚀 My Project Portfolio
+## 🚀 My *Financial Modelling and Valuation* Projects
+### 💰 [1. Valuation of Berger Paints Bangladesh Limited (BERGERPBL)](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)
+> A comprehensive Equity Research Report and DCF & Relative models valuation.
+- **Focus:** Equity Research, Financial Modelling, Company Valuation
+- **Highlights:**
+  - **CFA Institute Research Challenge:** Led team to 4th position (Local Finalist), conducting in-depth equity research and valuation.
+  - **Finvestor Competition:** 2nd Runner-up, solved complex business cases and financial strategy.
+  * [Click to View Project Repository ➡️](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)
 
-### 📊 [Data Analysis & Visualization](#)
+### 📊 [1. Data Analysis & Visualization](#)
 *(Check my repositories for Power BI & SQL projects)*
 - **Tools:** Power BI, SQL (BigQuery/MySQL), Tableau
 - **Highlights:**
@@ -27,12 +33,7 @@ Currently, I am working as an **Intern** at the **Dhaka Stock Exchange PLC. (Res
   - **Freelance Analytics:** Completed 10+ end-to-end analytics projects on Upwork.
   - **Market Research:** Developing data-driven insights for the Dhaka Stock Exchange.
 
-### 💰 [Financial Valuation & Modeling](#)
-*(Check my repositories for DCF models & Equity Research)*
-- **Focus:** Equity Research, Financial Modeling, Company Valuation
-- **Highlights:**
-  - **CFA Institute Research Challenge:** Led team to 4th position (Local Finalist) conducting in-depth equity research and valuation.
-  - **Finvestor Competition:** 2nd Runner-up, solved complex business cases and financial strategy.
+
 
 ### 🐍 [Python & Automation](#)
 *(Check my repositories for Python scripts)*
