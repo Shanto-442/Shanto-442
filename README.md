@@ -8,7 +8,7 @@ Currently, I am working as an **Intern** at the **Dhaka Stock Exchange PLC. (Res
 ## 🚀 Featured Power BI Projects
 *Click the links below to view the full analysis and dashboards.*
 
-### 🟡 [Blinkit Sales Performance Dashboard]([https://github.com/Shanto-442/Blinkit-Sales-Dashboard](https://github.com/Shanto-442/Blinkit-Sales-Analysis-BI-Dashboard?tab=readme-ov-file))
+### 🟡 [Blinkit Sales Performance Dashboard](https://github.com/Shanto-442/Blinkit-Sales-Analysis-BI-Dashboard?tab=readme-ov-file)
 **Revenue Analysis | Outlet KPI Monitoring | Business Intelligence**
 > A comprehensive dashboard analyzing **$1.20M in sales** across 8,500+ items.
 * **Tech:** Power BI, DAX, Power Query.
