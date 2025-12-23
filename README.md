@@ -1,12 +1,23 @@
 # Hi there, I'm Shanto Mia! 👋
 
-I am a **Finance Major** at the University of Dhaka and a **CA Professional Level Candidate** with a passion for data-driven decision-making.
+I am a **Finance Graduate** from the University of Dhaka and a **CA Professional Level Candidate** with a passion for data-driven decision-making.
 
-Currently, I am working as an **Intern** at the **Dhaka Stock Exchange (Research & Information Dept)**, where I use data tools to analyze capital market trends and support regulatory activities. I bridge the gap between traditional financial analysis and modern data science.
+Currently, I am working as an **Intern** at the **Dhaka Stock Exchange PLC. (Research & Information Department)**, where I use data tools to analyse capital market trends and support regulatory activities. I try to bridge the gap between traditional financial analysis and modern data science.
+
+---
+## 🚀 Featured Power BI Projects
+*Click the links below to view the full analysis and dashboards.*
+
+### 🟡 [Blinkit Sales Performance Dashboard](https://github.com/Shanto-442/Blinkit-Sales-Dashboard)
+**Revenue Analysis | Outlet KPI Monitoring | Business Intelligence**
+> A comprehensive dashboard analyzing **$1.20M in sales** across 8,500+ items.
+* **Tech:** Power BI, DAX, Power Query.
+* **Key Insight:** Identified Tier 3 outlets as the leading revenue driver ($472K).
+* **[View Project Repository ➡️](https://github.com/Shanto-442/Blinkit-Sales-Dashboard)**
 
 ---
 
-## 🚀 Project Portfolio
+## 🚀 My Project Portfolio
 
 ### 📊 [Data Analysis & Visualization](#)
 *(Check my repositories for Power BI & SQL projects)*
