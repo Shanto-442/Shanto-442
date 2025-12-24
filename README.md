@@ -16,14 +16,17 @@ Currently, I am working as an **Intern** at the **Dhaka Stock Exchange PLC. (Res
 
 ---
 
-## 🚀 My *Financial Modelling and Valuation* Projects
-### 💰 [1. Valuation of Berger Paints Bangladesh Limited (BERGERPBL)](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)
-> A comprehensive Equity Research Report and DCF & Relative models valuation.
-- **Focus:** Equity Research, Financial Modelling, Company Valuation
-- **Highlights:**
-  - **CFA Institute Research Challenge:** Led team to 4th position (Local Finalist), conducting in-depth equity research and valuation.
-  - **Finvestor Competition:** 2nd Runner-up, solved complex business cases and financial strategy.
-  * [Click to View Project Repository ➡️](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)
+## 🚀 Financial Valuation & Modelling Projects
+
+### 🏭 [1. Valuation of Berger Paints Bangladesh Limited (BERGERPBL)](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)
+**CFA Research Challenge (Being Top 4 Finalist at the Local Round) | Equity Research**
+> A comprehensive investment recommendation and 3-statement financial model.
+* **Focus:** Equity Research, Financial Modelling, Company Valuation
+* **Methodology:** DCF (FCFF), Relative Valuation (P/E), Sensitivity Analysis.
+* **Deliverables:** Full Equity Report, Dynamic Excel Model, Pitch Deck.
+* **[Click to View Project Repository ➡️](https://github.com/Shanto-442/Valuation-of-Berger-Paints-Bangladesh-Limited)**
+  
+---
 
 ### 📊 [1. Data Analysis & Visualization](#)
 *(Check my repositories for Power BI & SQL projects)*
